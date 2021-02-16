@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="MajorityElement" />
+        <module name="MedianFinding" />
+        <module name="ComputerVirusDetection" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="ComputerVirusDetection" target="1.8" />
+      <module name="IndexMinPQ" target="1.8" />
+      <module name="MajorityElement" target="1.8" />
+      <module name="MedianFinding" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
